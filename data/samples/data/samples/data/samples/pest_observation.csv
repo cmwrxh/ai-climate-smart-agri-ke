@@ -1,0 +1,6 @@
+farm_id,date,pest_name,severity,crop_stage,notes
+F001,2026-01-28,fall_armyworm,high,vegetative,"Leaf damage observed in multiple rows"
+F002,2026-01-29,aphids,medium,flowering,"Clusters present on underside of leaves"
+F003,2026-01-30,fall_armyworm,low,seedling,"Small patches, early detection"
+F004,2026-02-01,late_blight,high,vegetative,"Spreading rapidly after heavy rains"
+F005,2026-02-02,stemborer,medium,vegetative,"Some stalk tunneling signs"
