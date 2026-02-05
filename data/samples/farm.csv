@@ -1,0 +1,6 @@
+farm_id,county,sub_county,ward,crop_type,farm_size_ha,irrigation,gps_lat,gps_lon
+F001,Nakuru,Njoro,Mauche,maize,1.2,false,-0.3300,35.9400
+F002,Kiambu,Thika Town,Gatuanyaga,beans,0.6,true,-1.0300,37.0700
+F003,Kisumu,Kisumu East,Kolwa East,maize,0.9,false,-0.0900,34.7600
+F004,Meru,Imenti South,Abothuguchi West,potatoes,1.5,true,0.0600,37.6400
+F005,Machakos,Kangundo,Kangundo North,maize,0.8,false,-1.2900,37.3500
