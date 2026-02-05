@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SoilMeasurement",
+  "type": "object",
+  "required": ["farm_id", "date", "ph"],
+  "properties": {
+    "farm_id": { "type": "string" },
+    "date": { "type": "string", "format": "date" },
+    "ph": { "type": "number", "minimum": 0, "maximum": 14 },
+    "nitrogen_ppm": { "type": "number", "minimum": 0 },
+    "phosphorus_ppm": { "type": "number", "minimum": 0 },
+    "potassium_ppm": { "type": "number", "minimum": 0 },
+    "moisture_pct": { "type": "number", "minimum": 0, "maximum": 100 }
+  }
+}
